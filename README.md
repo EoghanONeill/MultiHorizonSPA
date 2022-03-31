@@ -89,7 +89,7 @@ Fast_Test_aSPA(LossDiff=Losses, weights=weights, L=3, B=10)
 
 ## Multiple Horizon Model Confidence Set
 
-Note: This test can be computationally expensive. The Fast MCS test is reccommended.
+Note: This test can be computationally expensive. The Fast MCS test is recommended.
 
 ``` r
 library(MultiHorizonSPA)
